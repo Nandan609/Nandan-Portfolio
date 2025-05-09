@@ -57,7 +57,7 @@ const Home = () => {
             className="relative rounded-full p-2 bg-white/10 backdrop-blur-md border-2 border-cyan-400 shadow-lg overflow-hidden w-40 h-40 md:w-52 md:h-52 flex items-center justify-center"
           >
             <img
-              src="/PIC.jpg"
+              src="/NANDAN.jpg"
               alt="C NANDAN"
               className="rounded-full object-cover w-full h-full"
             />
