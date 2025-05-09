@@ -9,7 +9,7 @@ const educationData = [
     institution: "Gitam University",
     degree: "Bachelor of Technology (B.Tech) in Computer Science Engineering",
     period: "2022 - Present",
-    CGPA:"7.30",
+    CGPA:"7.30 CGPA",
     description: "A comprehensive program that covers core computer science subjects, including algorithms, data structures, and machine learning.",
   },
   {
