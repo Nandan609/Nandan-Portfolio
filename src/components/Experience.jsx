@@ -6,20 +6,15 @@ import 'react-tooltip/dist/react-tooltip.css'; // ✨
 
 const experiences = [
   {
-    company: "Reaidy.io",
-    role: "Software Developer Intern",
-    period: "Aug 2024 - May 2025",
-    description: "Built scalable web apps using React, Node.js, and MongoDB.",
+    company: "Baatasari",
+    role: "Frintend Developer Intern",
+    period: "Jan 2025 - Present",
+    description: "Built scalable web apps using React+vite",
   },
-  {
-    company: "SayHey",
-    role: "AI Platform Developer",
-    period: "May 2025 - Present",
-    description: "Built AI-Driven Model to Summarize the conversation.", 
-  },
+ 
   {
     company: "ZenithZap",
-    role: "Web Developer and AI Chatbot Develper",
+    role: "Web Developer ",
     period: "May 2025 - Present",
     description: "Designed interactive websites and landing pages with animations.",
   },

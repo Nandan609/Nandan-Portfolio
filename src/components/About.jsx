@@ -21,9 +21,9 @@ const About = () => {
         transition={{ delay: 0.5, duration: 0.8 }}
         className="text-lg leading-8 text-center max-w-3xl"
       >
-        I'm Anand Sai Lattala 🚀, a passionate Software Developer, focused on building modern web apps, AI tools, and efficient solutions to real-world problems.
+        I'm C NANDAN 🚀, a passionate Software Developer, focused on building modern web apps, AI tools, and efficient solutions to real-world problems.
         <br /><br />
-        I have worked across multiple domains like Web Development, Machine Learning, and Computer Vision. Constantly learning, improving, and pushing my limits!
+        I have worked across multiple domains like Web Development and Computer Vision. Constantly learning, improving, and pushing my limits!
       </motion.p>
       <div className="flex justify-center mt-8">
   <a

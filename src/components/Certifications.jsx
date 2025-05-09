@@ -1,26 +1,22 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { PiCertificateLight } from 'react-icons/pi';
-import {  SiCoursera, SiUdemy } from 'react-icons/si';
-import { PiStudentLight } from 'react-icons/pi'; // Generic icon for NPT
+
+import { SiCoursera, SiUdemy } from "react-icons/si";
+
+
+
+import { PiCertificateLight, PiStudentLight } from "react-icons/pi";
+
 
 const Certifications = () => {
   const certs = [
-    {
-      name: 'Data Science for Engineers – NPTEL',
-      link: 'https://internalapp.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS20S43270101401236695',
-      badge: <PiStudentLight className="text-yellow-400 text-3xl" />, // Use Student icon
-    },
+    
     {
       name: 'Python Data Structures – Coursera',
-      link: 'https://www.coursera.org/account/accomplishments/verify/GBZLMQDT9WKG?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course',
+      link: 'https://www.coursera.org/account/accomplishments/verify/YFJM3BCKX5WU',
       badge: <SiCoursera className="text-blue-400 text-3xl" />,
     },
-    {
-      name: 'Full Stack Web Development Bootcamp – Udemy',
-      link: 'https://udemy.com',
-      badge: <SiUdemy className="text-purple-500 text-3xl" />,
-    },
+
   ];
   
 

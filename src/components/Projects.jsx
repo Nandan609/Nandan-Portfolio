@@ -7,16 +7,7 @@ const Projects = () => {
       link: "https://cure-houzz.vercel.app/",
       description: "A modern healthcare platform connecting patients and doctors with real-time consultations and health monitoring.",
     },
-    {
-      name: "Advanced Proxy Detection",
-      link: "https://advanced-proxy-detection-reaidyio.vercel.app/",
-      description: "An advanced proxy detection system using face-api.min.js and JavaScript, achieving accurate detection of dual voices, unauthorized appearances, and eye gaze patterns..",
-    },
-    {
-      name: "Serene - Emotional Support Chatbot",
-      link: "https://serene-pied.vercel.app/",
-      description: "Serene is an Emotional Support chatbot Which helps users to act as an emotional supporter.It has features like Text Input, Voice Input and Outout will be in the form of Both Text and Voice .",
-    },
+
   ];
 
   const [hoveredIndex, setHoveredIndex] = useState(null);

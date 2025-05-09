@@ -26,7 +26,7 @@ const Contact = () => {
       <div className="flex gap-8">
         {/* LinkedIn Button */}
         <motion.a
-          href="https://www.linkedin.com/in/anand-sai-lattala-b2238b260"
+          href="https://www.linkedin.com/in/nandan-chilukuri-6a3869328"
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{ scale: 1.05, boxShadow: "0 4px 15px rgba(0, 255, 255, 0.4)" }}
@@ -46,7 +46,7 @@ const Contact = () => {
 
         {/* Phone Button */}
         <motion.a
-          href="tel:+919110388960"  // Replace with your actual phone number
+          href="tel:+917204251318"  // Replace with your actual phone number
           whileHover={{ scale: 1.05, boxShadow: "0 4px 15px rgba(255, 165, 0, 0.4)" }}
           className="px-8 py-4 bg-orange-600 hover:bg-orange-700 text-white rounded-lg shadow-lg hover:shadow-2xl transition duration-300 ease-in-out text-lg font-semibold"
         >
