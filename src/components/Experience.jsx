@@ -7,7 +7,7 @@ import 'react-tooltip/dist/react-tooltip.css'; // ✨
 const experiences = [
   {
     company: "Baatasari",
-    role: "Frintend Developer Intern",
+    role: "Frontend Developer Intern",
     period: "Jan 2025 - Present",
     description: "Built scalable web apps using React+vite",
   },
