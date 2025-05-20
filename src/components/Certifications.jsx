@@ -17,6 +17,13 @@ const Certifications = () => {
       badge: <SiCoursera className="text-blue-400 text-3xl" />,
     },
 
+     {
+      name: 'C for Everyone: Programming Fundamentals – Coursera',
+      link: 'https://www.coursera.org/account/accomplishments/verify/43WBJYXLEH5D',
+      badge: <SiCoursera className="text-blue-400 text-3xl" />,
+    },
+    
+
   ];
   
 
