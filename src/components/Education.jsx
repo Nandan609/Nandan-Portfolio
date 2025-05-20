@@ -16,14 +16,14 @@ const educationData = [
     institution: "Sri Chaitanya P.U. College ",
     degree: "Intermediate Education",
     period: "2020-2022",
-    CGPA:"86.0%",
+    CGPA:"86.16%",
     description: "Completed Intermediate with a focus on Mathematics and Science, building a strong foundation in problem-solving and critical thinking.",
   },
   {
     institution: "Duddupudi English Medium High School ",
     degree: "Secondary School",
     period: "2020 ",
-    CGPA:"63.0%",
+    CGPA:"62.2%",
     description: "Completed high school with a focus on Mathematics and Science, building a strong foundation in problem-solving and critical thinking.",
   },
 ];
