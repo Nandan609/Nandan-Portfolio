@@ -22,6 +22,13 @@ const Certifications = () => {
       link: 'https://www.coursera.org/account/accomplishments/verify/43WBJYXLEH5D',
       badge: <SiCoursera className="text-blue-400 text-3xl" />,
     },
+
+            {
+      name: 'Fundamentals of Network Communication – Coursera',
+      link: 'https://www.coursera.org/account/accomplishments/verify/NZ9LD8KWSHNT',
+      badge: <SiCoursera className="text-blue-400 text-3xl" />,
+    },
+
     
 
   ];
