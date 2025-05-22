@@ -17,13 +17,13 @@ const Certifications = () => {
       badge: <SiCoursera className="text-blue-400 text-3xl" />,
     },
 
-     {
+    {
       name: 'C for Everyone: Programming Fundamentals – Coursera',
       link: 'https://www.coursera.org/account/accomplishments/verify/43WBJYXLEH5D',
       badge: <SiCoursera className="text-blue-400 text-3xl" />,
     },
 
-            {
+    {
       name: 'Fundamentals of Network Communication – Coursera',
       link: 'https://www.coursera.org/account/accomplishments/verify/NZ9LD8KWSHNT',
       badge: <SiCoursera className="text-blue-400 text-3xl" />,
@@ -58,8 +58,7 @@ const Certifications = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: index * 0.2 }}
             className="group relative bg-white/10 backdrop-blur-md border border-gray-700 rounded-2xl p-6 flex flex-col items-center text-center transition-all duration-300 overflow-hidden 
-              hover:shadow-[0_0_15px_2px] hover:shadow-primary hover:border-primary"
-          >
+              hover:shadow-[0_0_15px_2px] hover:shadow-primary hover:border-primary">
             {/* Soft glow on hover */}
             <div className="absolute inset-0 opacity-0 group-hover:opacity-100 bg-gradient-to-br from-primary/20 to-primary/5 blur-lg rounded-2xl transition-all duration-500"></div>
 
