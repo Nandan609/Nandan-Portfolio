@@ -14,7 +14,7 @@ const experiences = [
  
   {
     company: "ZenithZap",
-    role: "Web Developer ",
+    role: "Software Development Engineer",
     period: "May 2025 - Present",
     description: "Designed interactive websites and landing pages with animations.",
   },
