@@ -25,15 +25,17 @@ const About = () => {
         <br /><br />
         I have worked across multiple domains like Web Development and Computer Vision. Constantly learning, improving, and pushing my limits!
       </motion.p>
+
       <div className="flex justify-center mt-8">
-  <a
-    href="/public/Resume.pdf"
-    download
-    className="inline-flex items-center gap-2 bg-gradient-to-r from-cyan-500 to-blue-600 text-white px-6 py-3 rounded-full text-lg font-semibold shadow-md hover:shadow-2xl transition-all duration-300"
-  >
-    <FaDownload /> Download Resume
-  </a>
-</div>
+        <a
+          href="https://drive.google.com/uc?export=download&id=1oOTB54yXPIJS4zRH-3ZvfjAXJVXtOJEn"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2 bg-gradient-to-r from-cyan-500 to-blue-600 text-white px-6 py-3 rounded-full text-lg font-semibold shadow-md hover:shadow-2xl transition-all duration-300"
+        >
+          <FaDownload /> Download Resume
+        </a>
+      </div>
     </section>
   );
 };
