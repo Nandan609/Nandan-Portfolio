@@ -28,7 +28,8 @@ const About = () => {
 
       <div className="flex justify-center mt-8">
         <a
-          href="https://drive.google.com/uc?export=download&id=1oOTB54yXPIJS4zRH-3ZvfjAXJVXtOJEn"
+          href="https://drive.google.com/uc?export=download&id=1E9uF0ehoPSgGrMGFpeUKKF7Oc-PLCqYt"
+
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 bg-gradient-to-r from-cyan-500 to-blue-600 text-white px-6 py-3 rounded-full text-lg font-semibold shadow-md hover:shadow-2xl transition-all duration-300"
