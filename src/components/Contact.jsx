@@ -26,7 +26,7 @@ const Contact = () => {
       <div className="flex gap-8">
         {/* LinkedIn Button */}
         <motion.a
-          href="https://www.linkedin.com/in/nandan-chilukuri-6a3869328"
+          href="https://www.linkedin.com/in/chilukuri-nandan-8446ba37b"
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{ scale: 1.05, boxShadow: "0 4px 15px rgba(0, 255, 255, 0.4)" }}
