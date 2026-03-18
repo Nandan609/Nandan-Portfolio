@@ -28,7 +28,7 @@ const About = () => {
 
       <div className="flex justify-center mt-8">
         <a
-            href="https://drive.google.com/uc?export=download&id=1E9uF0ehoPSgGrMGFpeUKKF7Oc-PLCqYt"
+            href="https://drive.google.com/uc?export=download&id=1Osjp1_iDtkEvetUnTz4dHhKQLRpuCwuM"
 
           target="_blank"
           rel="noopener noreferrer"
